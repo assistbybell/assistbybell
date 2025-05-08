@@ -1,42 +1,8 @@
 ---
-title: "SOP for Creating SOPs"
-author: "Operations Team"
-date: "2025-05-08"
-version: "1.0"
-approval: "COO"
-status: "Active"
----
-
-# Standard Operating Procedure (SOP) - Creating SOPs
-
-## 1. Purpose
-This SOP defines the standardized method for writing and maintaining SOPs across all departments to ensure clarity, consistency, accountability, and ease of training.
-
-## 2. Scope
-Applies to all team members responsible for documenting processes, workflows, or task guides across operations, support, development, and leadership teams.
-
-## 3. Responsibilities
-- **Document Owner:** Responsible for drafting and maintaining the SOP.
-- **Team Lead:** Approves final draft and ensures procedural accuracy.
-- **Compliance Officer:** Ensures SOP aligns with regulatory or quality standards.
-
-## 4. Format Guidelines
-- **File Format:** `.md` (Markdown)
-- **Naming Convention:** `sop_<department>_<function>.md`
-- **Metadata Header:** YAML block with `title`, `author`, `date`, `version`, `approval`, and `status`.
-- **Section Headings:** Use H1-H3 (`#`, `##`, `###`) for hierarchy.
-
-## 5. SOP Structure
-
-### 5.1 Metadata (YAML Front Matter)
-
-Example:
-```yaml
----
-title: "SOP Title"
-author: "Name"
-date: "YYYY-MM-DD"
-version: "X.X"
-approval: "Manager/COO"
-status: "Draft/Active/Archived"
+title: SOP for Creating SOPs
+author: Operations Team
+date: 2025-05-08
+version: 1.0
+approval: COO
+status: Active
 ---
