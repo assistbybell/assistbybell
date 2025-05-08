@@ -1,0 +1,37 @@
+---
+title: SOP-Bell
+aliases: SOP-archive-002
+tags:
+  - sop
+  - template
+---
+## Scope
+
+-   Define what the SOP is supposed to address, the audience and clearly defined expectations.
+
+## Procedure
+
+### Steps To Be Followed In The Process 
+
+- Break down all the steps for SOP. Ensure steps are well defined, detailed and include decision tree dynamics. 
+- Ensure the completion of all steps, includes Jira task management, culminating in the transition of the task in the assignee's swim lane, to the verification stage.
+- When referencing tasks, include them in the body of the SOP suing the below format: 
+  ""[[02504112316-returns-management-sop.md]]""
+  
+  ## Due Date Management
+
+-   All due dates are enforced by automation and are based off task creator suggested due date and similar previous task due dates.
+-   Ensure all assigned tasks have 'Suggested Due Dates' which will form the basis for the assigned 'Due Date'.
+-   This compliance forms a critical part of the KPIs set for each task and any bonus structure assigned to the task.
+
+## KPIs
+
+- Include all relevant KPIs that measure completion of the expectations that are measurable and trackable.
+- If any Jira automations needs to be built, outline the steps in the SOP in brief detail.
+
+**Notes**
+
+- Ensure the file is saved in .md format
+- Ensure the tags reflect the content of the SOP
+- Ensure the name of the document follows the below format:
+**YYYYMMDDHHSS as the prefix for every file (the date should be when the document was first created)** 
